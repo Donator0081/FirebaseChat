@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="your_email">Your email</string>
+    <string name="your_password">Your password</string>
+    <string name="your_name">Your name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tap_to_log_in">Tap to Log In</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="user_name">User Name</string>
+</resources>
